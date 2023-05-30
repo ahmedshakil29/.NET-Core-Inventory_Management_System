@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/qIi/RxO1p3cvynVzwYokWElAUX9XwyzmCFywfAPG6GPWLKcmJ1DaK9BdS9aB9vGANRlFf9P8VVzWbMbwij5xg==",
+  "dgSpecHash": "lfHRSIC0mdDzXUjwHtX2hbt/oTV1gMdFTvg8T1gJuLr7qCUnUASZdW1p9orhHctiNIQWem/CEDBqc/YLy0nxMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ullas\\Downloads\\InventoryManagementSystem-_frankliucs.com_-\\IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj",
+  "projectFilePath": "C:\\Users\\Ullas\\Documents\\.net\\.NET-Core-Inventory_Management_System\\IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ullas\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Ullas\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
