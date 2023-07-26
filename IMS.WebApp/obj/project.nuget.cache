@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mGkg26mlvXG/YUf+2vQFixxCILT6vYk7/9+hBUzAYTG4rjECIL8ZdpL+Rui08+Y3JP1moJ9dRURmlobjDVGVGw==",
+  "dgSpecHash": "CUthJQy/AuZXNNTeqbZMH9C6R9EqqMchQQPlbchHAAbplcu+9gDpZvIWZ4SWioiA0492DPmVJwHvENsRisA1/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ullas\\Downloads\\InventoryManagementSystem-_frankliucs.com_-\\IMS.WebApp\\IMS.WebApp.csproj",
+  "projectFilePath": "C:\\Users\\Ullas\\Documents\\.net\\.NET-Core-Inventory_Management_System\\IMS.WebApp\\IMS.WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ullas\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Ullas\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.0\\microsoft.aspnetcore.cryptography.internal.6.0.0.nupkg.sha512",
